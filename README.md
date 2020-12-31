@@ -2,9 +2,9 @@
 
 My name is Felipe Orlando. I'm a Brazilian Software Engineer buiding cool things with awesome people.
 
-Currently I work as a Senior Software Engineer at [BitcoinTrade](https://www.bitcointrade.com.br/).
+Currently I work as a Senior Software Engineer at [BossaBox](https://bossabox.com/).
 
-Previously, I worked at [Quero Education](https://quero.education), [VTEX](https://vtex.com/), [Creditas](https://www.creditas.com/) and [GetNinjas](https://www.getninjas.com.br/).
+Previously, I worked at [BitcoinTrade](https://www.bitcointrade.com.br/), [Quero Education](https://quero.education), [VTEX](https://vtex.com/), [Creditas](https://www.creditas.com/) and [GetNinjas](https://www.getninjas.com.br/).
 
 I use a bunch of technologies to build things, mainly with Javascript, React, Go, Elixir and Ruby.
 
