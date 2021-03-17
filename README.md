@@ -15,6 +15,7 @@ Wanna have a word? Schedule some time [here](https://calendly.com/felipeorlando)
  - [LinkedIn](https://linkedin.com/in/felipeorlando)
  - [Twitter](https://twitter.com/felipe__orlando)
  - [Instagram](https://instagram.com/fobsouza/)
+ - [My personal website](https://felipeorlando.com/)
 
 ## Things I'm focusing now
 
