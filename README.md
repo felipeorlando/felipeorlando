@@ -2,13 +2,9 @@
 
 My name is Felipe Orlando. I'm a Brazilian Software Engineer buiding cool things with awesome people.
 
-Currently I work as a Senior Software Engineer at [YML](https://yml.co/).
+I use a bunch of technologies to build things, mainly with Javascript, React, Go, Elixir and Ruby on Rails.
 
-Previously, I worked at [BossaBox](https://bossabox.com), [BitcoinTrade](https://www.bitcointrade.com.br/), [Quero Education](https://quero.education), [VTEX](https://vtex.com/), [Creditas](https://www.creditas.com/) and [GetNinjas](https://www.getninjas.com.br/).
-
-I use a bunch of technologies to build things, mainly with Javascript, React, Go, Elixir and Ruby.
-
-Wanna have a word? Schedule some time [here](https://calendly.com/felipeorlando)!
+Wanna have a word? Schedule some time [here](https://cal.com/felipeorlando)!
 
 ## 💻 Social Media
 
